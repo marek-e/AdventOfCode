@@ -1,5 +1,5 @@
-# Advent Of Code 2022
-https://adventofcode.com/
+# [Advent Of Code ](https://adventofcode.com/)
+Soltions written in Python by @Ker4m
 
 ## [Solutions 2022](2022/)
 
