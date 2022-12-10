@@ -14,8 +14,8 @@ Soltions written in Python by [@Ker4m](https://github.com/Ker4m)
 | 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [part 1](./Day06/part1.py) | [part 2](./Day06/part2.py) | [input](https://adventofcode.com/2022/day/6/input) |
 | 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [part 1](./Day07/part1.py) | [part 2](./Day07/part2.py) | [input](https://adventofcode.com/2022/day/7/input) |
 | 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [part 1](./Day08/part1.py) | [part 2](./Day08/part2.py) | [input](https://adventofcode.com/2022/day/8/input) |
-| 9 | [Smoke Basin](https://adventofcode.com/2022/day/9) | [part 1](./Day09/part1.py) | [part 2](./Day09/part2.py) | [input](https://adventofcode.com/2022/day/9/input) |
-| 10 | [Syntax Scoring](https://adventofcode.com/2022/day/10) | [part 1](./Day10/part1.py) | [part 2](./Day10/part2.py) | [input](https://adventofcode.com/2022/day/10/input) |
+| 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [part 1](./Day09/part1.py) | [part 2](./Day09/part2.py) | [input](https://adventofcode.com/2022/day/9/input) |
+<!-- | 10 | [Syntax Scoring](https://adventofcode.com/2022/day/10) | [part 1](./Day10/part1.py) | [part 2](./Day10/part2.py) | [input](https://adventofcode.com/2022/day/10/input) |
 | 11 | [Dumbo Octopus](https://adventofcode.com/2022/day/11) | [part 1](./Day11/part1.py) | [part 2](./Day11/part2.py) | [input](https://adventofcode.com/2022/day/11/input) |
 | 12 | [Passage Pathing](https://adventofcode.com/2022/day/12) | [part 1](./Day12/part12.py) | [part 2](./Day12/part12.py) | [input](https://adventofcode.com/2022/day/12/input) |
 | 13 | [Transparent Origami](https://adventofcode.com/2022/day/13) | [part 1](./Day13/part1.py) | [part 2](./Day13/part2.py) | [input](https://adventofcode.com/2022/day/13/input) |
@@ -30,7 +30,7 @@ Soltions written in Python by [@Ker4m](https://github.com/Ker4m)
 | 22 | [Reactor Reboot](https://adventofcode.com/2022/day/22) | [part 1](./Day22/part1.py) | [part 2](./Day22/part2.py) | [input](https://adventofcode.com/2022/day/22/input) |
 | 23 | [Amphipod](https://adventofcode.com/2022/day/23) | [part 1](./Day23/part1.py) | [part 2](./Day23/part2.py) | [input](https://adventofcode.com/2022/day/23/input) |
 | 24 | [Arithmetic Logic Unit](https://adventofcode.com/2022/day/24) | [part 1](./Day24/part12.py) | [part 2](./Day24/part12.py) | [input](https://adventofcode.com/2022/day/24/input) |
-| 25 | [Sea Cucumber](https://adventofcode.com/2022/day/25) | [part 1](./Day25/part1.py) | [part 2](./Day25/part1.py) | [input](https://adventofcode.com/2022/day/25/input) |
+| 25 | [Sea Cucumber](https://adventofcode.com/2022/day/25) | [part 1](./Day25/part1.py) | [part 2](./Day25/part1.py) | [input](https://adventofcode.com/2022/day/25/input) | -->
 
 ## [Solutions 2021](2021/)
 
