@@ -6,18 +6,18 @@ Soltions written in Python by [@Ker4m](https://github.com/Ker4m)
 
 | Day | Challenge | Part 1 | Part 2 | Input |
 |:---:|:---|:---:|:---:|:---:|
-| 1 | [Calorie Counting](https://adventofcode.com/2022/day/1) | [part 1](./Day01/main.py) | [part 2](./Day01/part2.py) | [input](https://adventofcode.com/2022/day/1/input) |
-| 2 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [part 1](./Day02/main.py) | [part 2](./Day02/part2.py) | [input](https://adventofcode.com/2022/day/2/input) |
-| 3 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [part 1](./Day03/main.py) | [part 2](./Day03/part2.py) | [input](https://adventofcode.com/2022/day/3/input) |
-| 4 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | [part 1](./Day04/main.py) | [part 2](./Day04/part2.py) | [input](https://adventofcode.com/2022/day/4/input) |
-| 5 | [Supply Stacks](https://adventofcode.com/2022/day/5) | [part 1](./Day05/main.py) | [part 2](./Day05/part2.py) | [input](https://adventofcode.com/2022/day/5/input) |
-| 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [part 1](./Day06/main.py) | [part 2](./Day06/part2.py) | [input](https://adventofcode.com/2022/day/6/input) |
-| 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [part 1](./Day07/main.py) | [part 2](./Day07/part2.py) | [input](https://adventofcode.com/2022/day/7/input) |
-| 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [part 1](./Day08/main.py) | [part 2](./Day08/part2.py) | [input](https://adventofcode.com/2022/day/8/input) |
-| 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [part 1](./Day09/main.py) | [part 2](./Day09/part2.py) | [input](https://adventofcode.com/2022/day/9/input) |
-| 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [part 1](./Day10/main.py) | [part 2](./Day10/part2.py) | [input](https://adventofcode.com/2022/day/10/input) |
-<!-- | 11 | [Dumbo Octopus](https://adventofcode.com/2022/day/11) | [part 1](./Day11/main.py) | [part 2](./Day11/part2.py) | [input](https://adventofcode.com/2022/day/11/input) |
-| 12 | [Passage Pathing](https://adventofcode.com/2022/day/12) | [part 1](./Day12/main.py) | [part 2](./Day12/main2.py) | [input](https://adventofcode.com/2022/day/12/input) |
+| 1 | [Calorie Counting](https://adventofcode.com/2022/day/1) | [part 1](./2022/Day01/main.py) | [part 2](./2022/Day01/part2.py) | [input](https://adventofcode.com/2022/day/1/input) |
+| 2 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [part 1](./2022/Day02/main.py) | [part 2](./Day02/part2.py) | [input](https://adventofcode.com/2022/day/2/input) |
+| 3 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [part 1](./2022/Day03/main.py) | [part 2](./Day03/part2.py) | [input](https://adventofcode.com/2022/day/3/input) |
+| 4 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | [part 1](./2022/Day04/main.py) | [part 2](./Day04/part2.py) | [input](https://adventofcode.com/2022/day/4/input) |
+| 5 | [Supply Stacks](https://adventofcode.com/2022/day/5) | [part 1](./2022/Day05/main.py) | [part 2](./Day05/part2.py) | [input](https://adventofcode.com/2022/day/5/input) |
+| 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [part 1](./2022/Day06/main.py) | [part 2](./Day06/part2.py) | [input](https://adventofcode.com/2022/day/6/input) |
+| 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [part 1](./2022/Day07/main.py) | [part 2](./Day07/part2.py) | [input](https://adventofcode.com/2022/day/7/input) |
+| 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [part 1](./2022/Day08/main.py) | [part 2](./Day08/part2.py) | [input](https://adventofcode.com/2022/day/8/input) |
+| 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [part 1](./2022/Day09/main.py) | [part 2](./Day09/part2.py) | [input](https://adventofcode.com/2022/day/9/input) |
+| 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [part 1](./2022/Day10/main.py) | [part 2](./Day10/part2.py) | [input](https://adventofcode.com/2022/day/10/input) |
+<!-- | 11 | [Dumbo Octopus](https://adventofcode.com/2022/day/11) | [part 1](./2022/Day11/main.py) | [part 2](./Day11/part2.py) | [input](https://adventofcode.com/2022/day/11/input) |
+| 12 | [Passage Pathing](https://adventofcode.com/2022/day/12) | [part 1](./2022/Day12/main.py) | [part 2](./Day12/main2.py) | [input](https://adventofcode.com/2022/day/12/input) |
 | 13 | [Transparent Origami](https://adventofcode.com/2022/day/13) | [part 1](./Day13/main.py) | [part 2](./Day13/part2.py) | [input](https://adventofcode.com/2022/day/13/input) |
 | 14 | [Extended Polymerization](https://adventofcode.com/2022/day/14) | [part 1](./Day14/main.py) | [part 2](./Day14/part2.py) | [input](https://adventofcode.com/2022/day/14/input) |
 | 15 | [Chiton](https://adventofcode.com/2022/day/15) | [part 1](./Day15/main.py) | [part 2](./Day15/part2.py) | [input](https://adventofcode.com/2022/day/15/input) |
