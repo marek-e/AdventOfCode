@@ -12,6 +12,8 @@ Solutions written in Python by [@MarekE](https://github.com/marek-e)
 |  4  | [Scratchcards](https://adventofcode.com/2023/day/4)                    | [part 1](./2023/Day04/part1.py) | [part 2](./2023/Day04/part2.py) | [input](https://adventofcode.com/2023/day/4/input) |
 |  5  | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [part 1](./2023/Day05/part1.py) | [part 2](./2023/Day05/part2.py) | [input](https://adventofcode.com/2023/day/5/input) |
 |  6  | [Wait For It](https://adventofcode.com/2023/day/6)                     | [part 1](./2023/Day06/part1.py) | [part 2](./2023/Day06/part2.py) | [input](https://adventofcode.com/2023/day/6/input) |
+|  7  | [Camel Cards](https://adventofcode.com/2023/day/7)                     | [part 1](./2023/Day07/part1.py) | [part 2](./2023/Day07/part2.py) | [input](https://adventofcode.com/2023/day/7/input) |
+|  8  | [Haunted Wasteland](https://adventofcode.com/2023/day/8)               | [part 1](./2023/Day08/part1.py) | [part 2](./2023/Day08/part2.py) | [input](https://adventofcode.com/2023/day/8/input) |
 
 ## My Leaderboard
 
