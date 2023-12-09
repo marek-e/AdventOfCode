@@ -14,6 +14,7 @@ Solutions written in Python by [@MarekE](https://github.com/marek-e)
 |  6  | [Wait For It](https://adventofcode.com/2023/day/6)                     | [part 1](./2023/Day06/part1.py) | [part 2](./2023/Day06/part2.py) | [input](https://adventofcode.com/2023/day/6/input) |
 |  7  | [Camel Cards](https://adventofcode.com/2023/day/7)                     | [part 1](./2023/Day07/part1.py) | [part 2](./2023/Day07/part2.py) | [input](https://adventofcode.com/2023/day/7/input) |
 |  8  | [Haunted Wasteland](https://adventofcode.com/2023/day/8)               | [part 1](./2023/Day08/part1.py) | [part 2](./2023/Day08/part2.py) | [input](https://adventofcode.com/2023/day/8/input) |
+|  9  | [Mirage Maintenance](https://adventofcode.com/2023/day/9)              | [part 1](./2023/Day09/part1.py) | [part 2](./2023/Day09/part2.py) | [input](https://adventofcode.com/2023/day/9/input) |
 
 ## My Leaderboard
 
