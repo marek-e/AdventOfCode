@@ -18,6 +18,7 @@ Solutions written in Python by [@MarekE](https://github.com/marek-e)
 | 10  | [Pipe Maze](https://adventofcode.com/2023/day/10)                      | [part 1](./2023/Day10/part1.py) | [part 2](./2023/Day10/part2.py) | [input](https://adventofcode.com/2023/day/10/input) |
 | 11  | [Cosmic Expansion](https://adventofcode.com/2023/day/11)               | [part 1](./2023/Day11/part1.py) | [part 2](./2023/Day11/part2.py) | [input](https://adventofcode.com/2023/day/11/input) |
 | 12  | [Hot Springs](https://adventofcode.com/2023/day/12)                    | [part 1](./2023/Day12/part1.py) | [part 2](./2023/Day12/part2.py) | [input](https://adventofcode.com/2023/day/12/input) |
+| 13  | [Point of Incidence](https://adventofcode.com/2023/day/13)             | [part 1](./2023/Day13/part1.py) | [part 2](./2023/Day13/part2.py) | [input](https://adventofcode.com/2023/day/13/input) |
 
 ## My Leaderboard
 
