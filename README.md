@@ -20,6 +20,7 @@ Solutions written in Python by [@MarekE](https://github.com/marek-e)
 | 12  | [Hot Springs](https://adventofcode.com/2023/day/12)                    | [part 1](./2023/Day12/part1.py) | [part 2](./2023/Day12/part2.py) | [input](https://adventofcode.com/2023/day/12/input) |
 | 13  | [Point of Incidence](https://adventofcode.com/2023/day/13)             | [part 1](./2023/Day13/part1.py) | [part 2](./2023/Day13/part2.py) | [input](https://adventofcode.com/2023/day/13/input) |
 | 14  | [Parabolic Reflector Dish](https://adventofcode.com/2023/day/14)       | [part 1](./2023/Day14/part1.py) | [part 2](./2023/Day14/part2.py) | [input](https://adventofcode.com/2023/day/14/input) |
+| 15  | [Lens Library](https://adventofcode.com/2023/day/15)                   | [part 1](./2023/Day15/part1.py) | [part 2](./2023/Day15/part2.py) | [input](https://adventofcode.com/2023/day/15/input) |
 
 ## My Leaderboard
 
