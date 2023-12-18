@@ -23,6 +23,7 @@ Solutions written in Python by [@MarekE](https://github.com/marek-e)
 | 15  | [Lens Library](https://adventofcode.com/2023/day/15)                   | [part 1](./2023/Day15/part1.py) | [part 2](./2023/Day15/part2.py) | [input](https://adventofcode.com/2023/day/15/input) |
 | 16  | [The Floor Will Be Lava](https://adventofcode.com/2023/day/16)         | [part 1](./2023/Day16/part1.py) | [part 2](./2023/Day16/part2.py) | [input](https://adventofcode.com/2023/day/16/input) |
 | 17  | [Clumsy Crucible](https://adventofcode.com/2023/day/17)                | [part 1](./2023/Day17/part1.py) | [part 2](./2023/Day17/part2.py) | [input](https://adventofcode.com/2023/day/17/input) |
+| 18  | [Lavaduct Lagoon](https://adventofcode.com/2023/day/18)                | [part 1](./2023/Day18/part1.py) | [part 2](./2023/Day18/part2.py) | [input](https://adventofcode.com/2023/day/18/input) |
 
 ## My Leaderboard
 
