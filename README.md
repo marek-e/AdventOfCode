@@ -24,6 +24,7 @@ Solutions written in Python by [@MarekE](https://github.com/marek-e)
 | 16  | [The Floor Will Be Lava](https://adventofcode.com/2023/day/16)         | [part 1](./2023/Day16/part1.py) | [part 2](./2023/Day16/part2.py) | [input](https://adventofcode.com/2023/day/16/input) |
 | 17  | [Clumsy Crucible](https://adventofcode.com/2023/day/17)                | [part 1](./2023/Day17/part1.py) | [part 2](./2023/Day17/part2.py) | [input](https://adventofcode.com/2023/day/17/input) |
 | 18  | [Lavaduct Lagoon](https://adventofcode.com/2023/day/18)                | [part 1](./2023/Day18/part1.py) | [part 2](./2023/Day18/part2.py) | [input](https://adventofcode.com/2023/day/18/input) |
+| 19  | [Aplenty](https://adventofcode.com/2023/day/19)                        | [part 1](./2023/Day19/part1.py) | [part 2](./2023/Day19/part2.py) | [input](https://adventofcode.com/2023/day/19/input) |
 
 ## My Leaderboard
 
