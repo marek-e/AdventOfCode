@@ -25,6 +25,11 @@ Solutions written in Python by [@MarekE](https://github.com/marek-e)
 | 17  | [Clumsy Crucible](https://adventofcode.com/2023/day/17)                | [part 1](./2023/Day17/part1.py) | [part 2](./2023/Day17/part2.py) | [input](https://adventofcode.com/2023/day/17/input) |
 | 18  | [Lavaduct Lagoon](https://adventofcode.com/2023/day/18)                | [part 1](./2023/Day18/part1.py) | [part 2](./2023/Day18/part2.py) | [input](https://adventofcode.com/2023/day/18/input) |
 | 19  | [Aplenty](https://adventofcode.com/2023/day/19)                        | [part 1](./2023/Day19/part1.py) | [part 2](./2023/Day19/part2.py) | [input](https://adventofcode.com/2023/day/19/input) |
+| 20  | [Pulse Propagation](https://adventofcode.com/2023/day/20)              | [part 1](./2023/Day20/part1.py) | [part 2](./2023/Day20/part2.py) | [input](https://adventofcode.com/2023/day/20/input) |
+| 21  | [Step Counter](https://adventofcode.com/2023/day/21)                   | [part 1](./2023/Day21/part1.py) | [part 2](./2023/Day21/part2.py) | [input](https://adventofcode.com/2023/day/21/input) |
+| 22  | [Sand Slabs](https://adventofcode.com/2023/day/22)                     | [part 1](./2023/Day22/part1.py) | [part 2](./2023/Day22/part2.py) | [input](https://adventofcode.com/2023/day/22/input) |
+| 22  | [Sand Slabs](https://adventofcode.com/2023/day/22)                     | [part 1](./2023/Day22/part1.py) | [part 2](./2023/Day22/part2.py) | [input](https://adventofcode.com/2023/day/22/input) |
+| 23  | [A Long Walk](https://adventofcode.com/2023/day/23)                    | [part 1](./2023/Day23/part1.py) | [part 2](./2023/Day23/part2.py) | [input](https://adventofcode.com/2023/day/23/input) |
 
 ## My Leaderboard
 
