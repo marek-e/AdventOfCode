@@ -30,6 +30,7 @@ Solutions written in Python by [@MarekE](https://github.com/marek-e)
 | 22  | [Sand Slabs](https://adventofcode.com/2023/day/22)                     | [part 1](./2023/Day22/part1.py) | [part 2](./2023/Day22/part2.py) | [input](https://adventofcode.com/2023/day/22/input) |
 | 22  | [Sand Slabs](https://adventofcode.com/2023/day/22)                     | [part 1](./2023/Day22/part1.py) | [part 2](./2023/Day22/part2.py) | [input](https://adventofcode.com/2023/day/22/input) |
 | 23  | [A Long Walk](https://adventofcode.com/2023/day/23)                    | [part 1](./2023/Day23/part1.py) | [part 2](./2023/Day23/part2.py) | [input](https://adventofcode.com/2023/day/23/input) |
+| 24  | [Never Tell Me The Odds](https://adventofcode.com/2023/day/24)         | [part 1](./2023/Day24/part1.py) | [part 2](./2023/Day24/part2.py) | [input](https://adventofcode.com/2023/day/24/input) |
 
 ## My Leaderboard
 
